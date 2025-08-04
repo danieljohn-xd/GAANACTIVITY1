@@ -2,7 +2,7 @@ package danielgaanact1;
 
 import java.util.Scanner;
 
-public class danielgaanact1 {
+public class Activity1 {
 
    
     public static void main(String[] args) {
